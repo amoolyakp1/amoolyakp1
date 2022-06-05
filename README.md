@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amoolyakp1
-- 👀 I’m interested in category theory homolgy
+- 👀 I’m interested in category theory homology
 - 🌱 I’m currently learning personal study.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...aamullyya@gmail.com
